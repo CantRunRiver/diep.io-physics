@@ -30,7 +30,7 @@ const reloadTimes = [
 
 /**
  * 
- * Guesses a constant based on Cannon.ReloadTime values received in WebSocket.
+ * Guesses a constant based on Cannon.ReloadTime values received in WebSocket
  * 
  */
 const constat_min = 1.094091898;
