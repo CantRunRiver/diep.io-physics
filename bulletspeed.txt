@@ -1,4 +1,4 @@
- ̄v = (3 * bs) * bm
+ ̄v = (20 + 3 * bs) * bm
  v_0 =  ̄v * 2
  
  void tick() {
